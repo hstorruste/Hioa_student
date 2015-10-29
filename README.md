@@ -10,3 +10,4 @@ Her kan du se:
   - [Våren 2014](https://github.com/s165519/Hioa_student/tree/master/V2014/fag2014v.md)
   - [Høsten 2014](https://github.com/s165519/Hioa_student/tree/master/H2014/fag2014h.md)
   - [Våren 2015](https://github.com/s165519/Hioa_student/tree/master/V2015/fag2015v.md)
+  - [Høsten 2015](https://github.com/s165519/Hioa_student/blob/master/H2015/fag2015h.md)
