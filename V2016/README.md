@@ -1,6 +1,6 @@
 #Mine fag våren 2016
 - [Datanettverk og skytjenester](https://github.com/s165519/Hioa_student/blob/master/V2016/README.md#dats2410-datanettverk-og-skytjenester)
-- [Bacheloroppgave](https://github.com/s165519/Hioa_student/blob/master/H2015/README.md#dats3900-bacheloroppgave) - bachelorgruppens [hjemmeside](http://bachelorprosjekt.net/)
+- [Bacheloroppgave](https://github.com/s165519/Hioa_student/blob/master/V2016/README.md#dats3900-bacheloroppgave) - bachelorgruppens [hjemmeside](http://bachelorprosjekt.net/)
 
 
 Se også: [Høsten 2013](https://github.com/s165519/Hioa_student/tree/master/H2013/fag2013h.md) [Våren 2014](https://github.com/s165519/Hioa_student/tree/master/V2014/fag2014v.md) [Høsten 2014](https://github.com/s165519/Hioa_student/tree/master/H2014/fag2014h.md) [Våren 2015](https://github.com/s165519/Hioa_student/tree/master/V2015/fag2015v.md) [Høsten 2015](https://github.com/s165519/Hioa_student/tree/master/H2015/fag2015h.md)
